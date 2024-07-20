@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Spaghetti Bolognese",
+        "type": "Main Course",
+        "preparation_time": 30,
+        "ingredients": "200g spaghetti, 100g ground beef, 1 onion, 2 cloves garlic, 400g canned tomatoes, salt, pepper, olive oil, parmesan cheese",
+        "steps": "1. Cook the spaghetti according to the package instructions.\n2. In a pan, heat olive oil and sauté the chopped onion and garlic until soft.\n3. Add the ground beef and cook until browned.\n4. Add the canned tomatoes, salt, and pepper. Let it simmer for 15 minutes.\n5. Serve the sauce over the spaghetti and top with grated parmesan cheese."
+    },
+    {
+        "name": "Caesar Salad",
+        "type": "Salad",
+        "preparation_time": 15,
+        "ingredients": "1 head romaine lettuce, 50g croutons, 30g grated parmesan cheese, Caesar dressing",
+        "steps": "1. Wash and chop the romaine lettuce.\n2. In a large bowl, combine the lettuce, croutons, and grated parmesan cheese.\n3. Add Caesar dressing and toss to coat evenly.\n4. Serve immediately."
+    },
+    {
+        "name": "Chocolate Cake",
+        "type": "Dessert",
+        "preparation_time": 60,
+        "ingredients": "200g flour, 200g sugar, 100g cocoa powder, 1.5 tsp baking powder, 1.5 tsp baking soda, 1 tsp salt, 2 eggs, 240ml milk, 120ml vegetable oil, 2 tsp vanilla extract, 240ml boiling water",
+        "steps": "1. Preheat oven to 175°C (350°F).\n2. In a large bowl, combine flour, sugar, cocoa powder, baking powder, baking soda, and salt.\n3. Add eggs, milk, oil, and vanilla extract. Beat on medium speed for 2 minutes.\n4. Stir in boiling water (batter will be thin).\n5. Pour batter into a greased and floured 9x13 inch pan.\n6. Bake for 30-35 minutes or until a toothpick inserted in the center comes out clean.\n7. Let cool before frosting or serving."
+    },
+    {
+        "name": "Tomato Soup",
+        "type": "Soup",
+        "preparation_time": 20,
+        "ingredients": "1 tbsp olive oil, 1 onion, 2 cloves garlic, 800g canned tomatoes, 500ml vegetable broth, salt, pepper, basil leaves",
+        "steps": "1. In a large pot, heat olive oil and sauté the chopped onion and garlic until soft.\n2. Add the canned tomatoes and vegetable broth. Bring to a boil.\n3. Reduce heat and let it simmer for 10 minutes.\n4. Use an immersion blender to puree the soup until smooth.\n5. Season with salt and pepper to taste.\n6. Garnish with fresh basil leaves before serving."
+    },
+    {
+        "name": "Pancakes",
+        "type": "Breakfast",
+        "preparation_time": 20,
+        "ingredients": "200g flour, 2 tbsp sugar, 2 tsp baking powder, 1/2 tsp salt, 240ml milk, 1 egg, 60g melted butter, 1 tsp vanilla extract",
+        "steps": "1. In a large bowl, combine flour, sugar, baking powder, and salt.\n2. In another bowl, whisk together milk, egg, melted butter, and vanilla extract.\n3. Pour the wet ingredients into the dry ingredients and stir until just combined.\n4. Heat a griddle or non-stick pan over medium heat. Grease with a little butter or oil.\n5. Pour 1/4 cup of batter onto the griddle for each pancake. Cook until bubbles form on the surface, then flip and cook until golden brown.\n6. Serve with your favorite toppings."
+    }
+]
